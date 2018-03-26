@@ -1,0 +1,14 @@
+Welcome to the Pokemon Maze!
+
+	To begin, press SPACE on the keyboard. This will begin the game.
+This game is very simple to play, only involving the arrow keys for gameplay.
+	Press the UP arrow key to go Up.
+	Press the RIGHT arrow key to go Right.
+	Press the DOWN arrow key to go Down.
+	Press the LEFT arrow key to go Left.
+To win the game, you must collect all 8 coins, which are golden in color and spread across the map.
+There are enemies around the map, usually protecting coins. They are purple and will disappear and reappear from time to time.
+	You can safely move through them while they are invisible, but if you attempt to move through them while they are fully or very visible you will lose the game.
+The timer, if it reaches 0, will cause the game to result in a Game Over.
+	Coins add slight additional time, which can help increase your chance of winning.
+	The timer will flash when time becomes too low.
